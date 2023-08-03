@@ -2,8 +2,9 @@ from dependencies import *
 '''
 Esse código tem como função manipular o tempo de envio de dados do modbus slave simulator.
 Author: Gabriela Dellamora Paim
-Version: 03.08.23
+E-mail: gabrieladellamora@gmail.com
 Github: https://github.com/MarnieGrenat
+Version: 03.08.23
 '''
 
 # É possível configurar por dentro do script. Evite mexer no código fonte do script.py ou dependencies.py.
