@@ -2,8 +2,9 @@
 Dependências do script manipular o tempo de envio de dados do modbus slave simulator.
 NÃO EXECUTAR ESSE ARQUIVO.
 Author: Gabriela Dellamora Paim
-Version: 03.08.23
+E-mail: gabrieladellamora@gmail.com
 Github: https://github.com/MarnieGrenat
+Version: 03.08.23
 '''
 
 import pyautogui as pag
