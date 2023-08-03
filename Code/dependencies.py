@@ -1,10 +1,11 @@
 '''
-Esse código tem como função manipular o tempo de envio de dados do modbus slave simulator.
+Dependências do script manipular o tempo de envio de dados do modbus slave simulator.
+NÃO EXECUTAR ESSE ARQUIVO.
 Author: Gabriela Dellamora Paim
 Version: 03.08.23
-E-mail: gabrieladellamora@gmail.com 
 Github: https://github.com/MarnieGrenat
 '''
+
 import pyautogui as pag
 import pydirectinput as pdi
 from time import sleep
