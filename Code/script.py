@@ -1,6 +1,11 @@
 from dependencies import *
+'''
+Esse código tem como função manipular o tempo de envio de dados do modbus slave simulator.
+Author: Gabriela Dellamora Paim
+Version: 03.08.23
+Github: https://github.com/MarnieGrenat
+'''
 
-# MODIFIQUE CASO NECESSÁRIO
 # É possível configurar por dentro do script. Evite mexer no código fonte do script.py ou dependencies.py.
 
 limit_burst = 51 # Mais ou menos 1 hora de 70 em 70 segundos
